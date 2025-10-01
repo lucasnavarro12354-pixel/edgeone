@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <title>Solicitar Servidor Roblox</title>
+    <style>
+        body {
+            background-color: #0d1117;
+            color: white;
+            font-family: Arial, sans-serif;
+            text-align: center;
+            padding-top: 100px;
+        }
+        h1 {
+            font-size: 36px;
+        }
+        .btn {
+            margin-top: 20px;
+            padding: 15px 30px;
+            font-size: 18px;
+            background-color: #00b894;
+            border: none;
+            border-radius: 8px;
+            color: white;
+            cursor: pointer;
+            transition: background-color 0.3s ease;
+        }
+        .btn:hover {
+            background-color: #019875;
+        }
+    </style>
+</head>
+<body>
+    <h1>Solicitar Acesso ao Servidor Roblox</h1>
+    <a href="https://www.roblox.com/share?code=3b77faca044e8c41bc70c1c80c6565c0&type=Server" target="_blank">
+        <button class="btn">Solicitar</button>
+    </a>
+</body>
+</html>
